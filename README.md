@@ -1,3 +1,13 @@
+# OCR Workshop 
+Denne mappe indeholder materialet til OCR workshoppen hos AU Library, Nobelparken.
+
+## Introduktion 
+Her findes de filer, der skal bruges til OCR workshoppen ved AU Library, Nobelparken. Det er ikke nødvendigt at gøre mere før workshoppens start.
+Workshoppen gennemføres på dansk, medmindre andet er aftalt
+
+## Krav 
+Det eneste som er nødvendigt til denne workshop, er at have adgang til disse filer. Der er intet der skal installeres på forhånd.
+
 # OCR Workshop
 This repository is the material for the OCR workshop at AU Library, Nobelparken.
 
